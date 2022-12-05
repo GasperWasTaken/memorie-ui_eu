@@ -5,5 +5,6 @@ export default function Feed() {
         <div className="feed">
             feed
         </div>
+        
     )
 }
