@@ -20,6 +20,7 @@ export default function Sidebar() {
                     </li>
                     <li className="sidebarListItem">
                         <PersonalVideo className="sidebarIcon" />
+                        
                         <span className="sidebarListItemText">
                             Videos
                         </span>
