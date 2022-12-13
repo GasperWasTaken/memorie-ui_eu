@@ -1,4 +1,7 @@
 .feed {
     flex: 5.5;
-    background-color: cyan;
+}
+
+.feedWrapper {
+    padding: 20px;
 }
